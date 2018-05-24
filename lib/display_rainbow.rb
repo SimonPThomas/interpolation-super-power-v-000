@@ -6,4 +6,11 @@ def display_rainbow (colors)
 end
 
 
-display_rainbow(colors) 
+display_rainbow(colors)
+red = [R: red]
+orange =[O:orange]
+yellow = [Y: yellow]
+green = [G: green]
+blue = [B: blue]
+indigo = [I: indigo]
+violet = [V: violet]
