@@ -13,4 +13,3 @@ end
 
 
 display_rainbow(colors)
-
